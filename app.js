@@ -1,3 +1,4 @@
+//author: Victor Hugo de Barros@mekakil//
 function initMap() {
   const myLatlng = { lat: -37.815338, lng: 144.963226 };
   const map = new google.maps.Map(document.getElementById("map"), {
